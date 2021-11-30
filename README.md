@@ -48,11 +48,13 @@ This repo is the home to our Speckle 2.0 PowerBI project. The [Speckle Server](h
 
 ## Install
 
-Go to the [Releases](https://github.com/specklesystems/speckle-powerbi/releases) page, downlad the `.mez` file of the latest release and copy it into the following folder in your computer:
+First, create the following folder structure on your system:
 
 ```
 YOUR_USER_FOLDER\Documents\Power BI Desktop\Custom Connectors\
 ```
+
+Then, go to the [Releases](https://github.com/specklesystems/speckle-powerbi/releases) page, downlad the `.mez` file of the latest release and copy it into the 'Custom Connectors' folder that you just created.
 
 ### Allow custom extensions to run
 
